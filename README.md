@@ -2,9 +2,6 @@
 
 **_Front-End Developer_**
 
----
-
-![Profile Image](./pouyazoudy.webp) <!-- Add your profile image URL here -->
 
 [![Email](https://img.shields.io/badge/Email-pooyazoody2000%40gmail.com-informational?style=flat&logo=gmail&color=red)](mailto:pooyazoody2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pouyazoody/)
